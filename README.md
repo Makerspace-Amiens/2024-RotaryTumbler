@@ -1,6 +1,7 @@
-# Projet polisseuse 3D
 
-Doc gérée via le thème [Just-The-Docs](https://just-the-docs.com) en vanilla.
+# Projet de troisième année: polisseuse à objet 3D 
+*by Amin Svendsen, Bryis Lucas and Yasser Talbi*
+[Just-The-Docs](https://just-the-docs.com)
 
 # Bienvenue sur Notre Projet
 
@@ -24,6 +25,8 @@ Nous accueillons et apprécions toute contribution. Si vous souhaitez contribuer
 
 Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter.
 
-Amin Svendsen mail:amin.svendsen@etu.unilasalle.fr
-Lucas Bryis mail: lucas.bryis@etu.unilasalle.fr
-Yasser Abdelrahman Talbi mail: Abdelrahman.TALBI@etu.unilasalle.fr
+**Amin Svendsen** mail: amin.svendsen@etu.unilasalle.fr
+
+**Lucas Bryis**   mail: lucas.bryis@etu.unilasalle.fr
+
+**Yasser Talbi**  mail: Abdelrahman.TALBI@etu.unilasalle.fr
