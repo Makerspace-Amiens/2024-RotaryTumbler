@@ -7,7 +7,7 @@ title: Accueil
 # Bienvenue sur notre documentation
 
 Bienvenue dans la documentation du projet de **polisseuse pour objet 3D**. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
-
+Un "rotary tumbler" ou polisseuse de pièces 3D fait polir un objet grace à un cylindre rempli avec du sable abrasif qui tournera pendant quelques heures. On peut trouver 2 parties un cylindre avec le sable et l'objet à polir et un socle avec un écran, des boutons, à l'intérieur du socle on trouve une carte éléctronique, une microprocesseur et un moteur.
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/polisseuse.jpg)
 
 ## À propos du Projet
