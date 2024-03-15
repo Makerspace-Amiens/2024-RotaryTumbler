@@ -29,7 +29,7 @@ Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter.
 
 **Yasser Talbi :** Abdelrahman.TALBI@etu.unilasalle.fr
 
-```                                                                                                                                     ```
+---
 
 # Welcome to our project: the 3D Object Polisher 
 *by Amin Svendsen, Bryis Lucas and Yasser Talbi*
