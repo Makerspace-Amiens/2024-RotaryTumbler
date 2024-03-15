@@ -1,9 +1,7 @@
+### **ENGLISH VERSION BELOW**
 
-# Projet de troisième année: polisseuse à objet 3D 
+# Bienvenue sur notre projet: la polisseuse à objet 3D 
 *by Amin Svendsen, Bryis Lucas and Yasser Talbi*
-[Just-The-Docs](https://just-the-docs.com)
-
-# Bienvenue sur Notre Projet
 
 Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
 
@@ -25,8 +23,39 @@ Nous accueillons et apprécions toute contribution. Si vous souhaitez contribuer
 
 Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter.
 
-**Amin Svendsen** mail: amin.svendsen@etu.unilasalle.fr
+**Amin Svendsen :** amin.svendsen@etu.unilasalle.fr
 
-**Lucas Bryis**   mail: lucas.bryis@etu.unilasalle.fr
+**Lucas Bryis :** lucas.bryis@etu.unilasalle.fr
 
-**Yasser Talbi**  mail: Abdelrahman.TALBI@etu.unilasalle.fr
+**Yasser Talbi :** Abdelrahman.TALBI@etu.unilasalle.fr
+
+```                                                                                                                                     ```
+
+# Welcome to our project: the 3D Object Polisher 
+*by Amin Svendsen, Bryis Lucas and Yasser Talbi*
+
+This repository is the heart of our project. Here, you will find all the resources needed to understand, use, and contribute to our project.
+
+## Repository Contents
+
+- **Documentation:** All technical documentation and user guides are available in the `docs` folder. See the associated doc site.
+- **project:** All the source code of our project.
+
+### How to Use this Repository?
+
+- To get started, refer to the documentation in the `docs` folder.
+- If you wish to contribute to the project, please read our contribution guidelines.
+
+## Contribution
+
+We welcome and appreciate any contributions. If you wish to contribute, please refer to our contribution guide to understand our expectations and process.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact us.
+
+**Amin Svendsen:** amin.svendsen@etu.unilasalle.fr
+
+**Lucas Bryis:** lucas.bryis@etu.unilasalle.fr
+
+**Yasser Talbi:** Abdelrahman.TALBI@etu.unilasalle.fr
