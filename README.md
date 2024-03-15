@@ -27,7 +27,7 @@ Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter.
 
 **Lucas Bryis :** lucas.bryis@etu.unilasalle.fr
 
-**Yasser Talbi :** Abdelrahman.TALBI@etu.unilasalle.fr
+**Yasser Talbi :** abdelrahman.talbi@etu.unilasalle.fr
 
 ---
 
@@ -58,4 +58,4 @@ If you have any questions or suggestions, feel free to contact us.
 
 **Lucas Bryis:** lucas.bryis@etu.unilasalle.fr
 
-**Yasser Talbi:** Abdelrahman.TALBI@etu.unilasalle.fr
+**Yasser Talbi:** abdelrahman.talbi@etu.unilasalle.fr
