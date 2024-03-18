@@ -14,9 +14,12 @@ Un "rotary tumbler", également connu sous le nom de polisseuse de pièces 3D, e
 
 Notre machine se compose de deux parties principales : le cylindre contenant l'abrasif que l'on appelle le tambour, et une boîte contenant tout le système mécanique et électronique.
 
-![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/polisseuse.jpg)
+![Polisseuse 3D chopée sur Google Images](images/polisseuse.jpg)
 
 (Nouvelle image avec flèches poitant tambour et boîte)
+
+## Remerciements
+Nous tenons à remercier... (to be continued) (Adrien Bracq bien sûr ;D )
 
 ## Poster
 
