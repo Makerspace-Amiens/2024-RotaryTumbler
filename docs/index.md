@@ -16,7 +16,7 @@ Notre machine se compose de deux parties principales : le cylindre contenant l'a
 
 ![Polisseuse 3D chopée sur Google Images](images/polisseuse.jpg)
 
-(Nouvelle image avec flèches poitant tambour et boîte)
+(Nouvelle image avec NOTRE machine et flèches poitant tambour et boîte)
 
 ## Remerciements
 Nous tenons à remercier... (to be continued) (Adrien Bracq bien sûr ;D )
