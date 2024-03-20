@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 2
-title: Objectifs & Cahier des charges
+title: Objectifs et cahier des charges
 ---
 
 # Introduction
