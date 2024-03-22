@@ -18,7 +18,7 @@ title: Conception et prototypage
         View in your space
     </button>
     <div id="ar-prompt">
-        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+        <img src="Assembly 1bbbb23232.gltf">
     </div>
 </model-viewer>
 
